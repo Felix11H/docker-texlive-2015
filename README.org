@@ -1,0 +1,4 @@
+
+Docker image for [[https://www.tug.org/texlive/][TeX Live 2015]] including [[https://ctan.org/pkg/latexmk?lang%3Den][Latexmk]] for automated document generation and [[http://pygments.org/][Pyments]] for code syntax highlighting within documents.
+
+For an example how to compile a document using this image, see ~compile.sh~.
